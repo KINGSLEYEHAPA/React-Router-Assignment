@@ -1,0 +1,12 @@
+.error-page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+.error-page h2 {
+  color: navy;
+  margin-top: 8rem;
+  font-weight: 700;
+}

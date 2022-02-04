@@ -1,0 +1,35 @@
+.comment {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.section-comments {
+  min-height: 60vh;
+}
+.comments-block {
+  margin: 1rem 4rem;
+  text-decoration: none;
+  color: white;
+  background-color: navy;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.85);
+  font-size: 1rem;
+}
+.comments-title {
+  text-align: center;
+  color: navy;
+  font-weight: 700;
+}
+.loading {
+  margin: 6rem 0;
+  text-align: center;
+  color: navy;
+  font-size: 2rem;
+}
+.error-title {
+  margin: 4rem 0;
+  text-align: center;
+  color: navy;
+  font-size: 1.5rem;
+}
